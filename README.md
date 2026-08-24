@@ -49,7 +49,7 @@
 
 ## Структура проекта
 
-Walmart-sales.csv # Исходные данные (цены на бензин)
+Walmart-sales.csv # Исходные данные
 
 Прогнозирование_продаж_Walmart.ipynb # Jupyter Notebook с полным анализом
 
