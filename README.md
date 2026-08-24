@@ -51,6 +51,6 @@
 
 Walmart-sales.csv # Исходные данные (цены на бензин)
 
-walmart_analysis.ipynb # Jupyter Notebook с полным анализом
+Прогнозирование_продаж_Walmart.ipynb # Jupyter Notebook с полным анализом
 
 README.md # Описание проекта
